@@ -26,3 +26,7 @@ Generated\ Files/
 
 #Rider
 .idea/
+
+#packages
+
+packages/
